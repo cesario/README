@@ -1,4 +1,4 @@
 README
 ======
 
-This is the account you are looking for. Instead, you might want to visit http://github.com/franckverrot
+This is not the account you are looking for. Instead, you might want to visit http://github.com/franckverrot
